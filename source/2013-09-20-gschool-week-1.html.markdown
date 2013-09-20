@@ -26,6 +26,6 @@ Thursday morning, George and I basically rebuilt the entire project in about fiv
 
 The new and improved version is [here](https://github.com/bwinterling/event_reporter2).
 
-I have some ideas how to start from a test-driven perspective next time.  Try to lay out the logic structure first, which will help guide the initial layout and where you can find the results to actually test.  We'll see how it goes on Monday!
+I have some ideas how to start from a test-driven perspective next time.  Try to sketch out the logic structure first, which will help guide the initial layout and where you can find the results to actually test.  We'll see how it goes on Monday!
 
 I also learned how helpful the rest of my classmates are.  Couldn't have done it without them.  I also hope I was able to help my classmates in return.

@@ -20,9 +20,9 @@ One really tough part of banging your head against a wall was that I didn't see 
 
 George has to pick up his daughters from school, and would grind away at night, and we would reconnect in the morning and share ideas.
 
-The highlight of the project for me was Wednesday night.  I was about ready to go into the alley and scream at the top of my lungs.  Instead, I asked a few different people about classes, instance variables, getters and setters.  The best talk was with Frank, who explained that bad touches are bad.  I didn't sleep much that night, thinking about Frank's bad touches -- but it finally **clicked** for me.
+The highlight of the project for me was Tuesday night.  I was about ready to go into the alley and scream at the top of my lungs.  Instead, I asked a few different people about classes, instance variables, getters and setters.  The best talk was with Frank, who explained that bad touches are bad.  I didn't sleep much that night, thinking about Frank's bad touches -- but it finally **clicked** for me.
 
-Thursday morning, George and I basically rebuilt the entire project in about five hours.  Go figure.
+Wednesday morning, George and I basically rebuilt the entire project in about five hours.  Go figure.
 
 The new and improved version is [here](https://github.com/bwinterling/event_reporter2).
 

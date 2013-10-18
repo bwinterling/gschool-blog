@@ -14,4 +14,4 @@ Once again, the learning curve is steep, but not insurmountable.  I killed the b
 
 Working on an individual project has been fun this time around.  I can groove and take the project in any direction I want (like adding CSS) without worrying about my partner's learning.  Short of the Encryptor project, I haven't had a partner who could answer questions, so working alone is no different when I need help - I still need to formulate my question and seek help from someone else.
 
-And, on a unrelated note, I've had this (http://youtu.be/Pi7gwX7rjOw "song") stuck in my head all morning.  Enjoy!
+And, on a unrelated note, I've had this [song](http://youtu.be/Pi7gwX7rjOw) stuck in my head all morning.  Enjoy!
